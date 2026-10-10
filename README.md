@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚾ STATCOVE</h3>
+      <h3>📊 STATCOVE</h3>
       <p>MLB 기록 탐색·비교·분석 데이터 플랫폼</p>
       <p><sub><b>2026.09 ~ 현재 · 프론트 · 백엔드 · AWS 인프라</b></sub></p>
       <a href="https://statcove.site"><img src="https://img.shields.io/badge/Service-statcove.site-2563eb?style=flat-square" /></a>
@@ -33,12 +33,11 @@
   </tr>
 </table>
 
-
 ## Hi there 👋
 
 - 🏫 Pursuing a bachelor's degree in Computer Science & Engineering at Kyonggi University, Korea
 - ✅ Studying Server development and Database
-- 🪪 Having a certification in SQL Developer, Engineer Information Processing (National Technical Qualification), CSTS and TOPCIT (632)
+- 🪪 Have a certification in SQL Developer, Engineer Information Processing (National Technical Qualification), CSTS and TOPCIT (632)
 - 🔭 I'm currently working on STATCOVE project
 - 🌱 I'm currently learning Spring AI
 - 📫 How to reach me: daewon6905@gmail.com
