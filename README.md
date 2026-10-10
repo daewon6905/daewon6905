@@ -33,13 +33,17 @@
     </td>
   </tr>
 </table>
+
+
 ## Hi there 👋
-🏫 Pursuing a bachelor's degree in Computer Science & Engineering at Kyonggi University, Korea
-✅ Studying Server development and Database
-🪪 Having a certification in SQL Developer, CSTS and TOPCIT (632)
-- 🔭 I’m currently working on STATCOVE project
-- 🌱 I’m currently learning SpringAI
+
+- 🏫 Pursuing a bachelor's degree in Computer Science & Engineering at Kyonggi University, Korea
+- ✅ Studying Server development and Database
+- 🪪 Having a certification in SQL Developer, CSTS and TOPCIT (632)
+- 🔭 I'm currently working on STATCOVE project
+- 🌱 I'm currently learning Spring AI
 - 📫 How to reach me: daewon6905@gmail.com
-## 📁Publications
-📄 Jo, H., Kim, S., Jeong, D., Oh, H., & Chung, K. (2025). Multilingual OTC Drugs Chatbot System Using Retrieval-Augmented Generation. The transactions of The Korean Institute of Electrical Engineers, 74(11), 1972-1978. 10.5370/KIEE.2025.74.11.1972
--->
+
+## 📁 Publications
+
+- 📄 Jo, H., Kim, S., Jeong, D., Oh, H., & Chung, K. (2025). Multilingual OTC Drugs Chatbot System Using Retrieval-Augmented Generation. *The Transactions of The Korean Institute of Electrical Engineers, 74*(11), 1972-1978. [10.5370/KIEE.2025.74.11.1972](https://doi.org/10.5370/KIEE.2025.74.11.1972)
