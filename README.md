@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=b91c1c&height=300&section=header&text=Welcome%20&fontSize=90" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?    type=venom&color=f03c45&fontColor=ffffff&height=300&section=header&text=Welcome%20&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=f03c45&fontColor=1f2328&height=300&section=header&text=Welcome%20&fontSize=90" />
+  </picture>
 </div>
 
 ## 🛠️ Tech Stack
