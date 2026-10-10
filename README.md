@@ -1,4 +1,6 @@
-<img src="./welcome.svg" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome%20&fontSize=90" />
+</div>
 
 ## 🛠️ Tech Stack
 <p align="center">
