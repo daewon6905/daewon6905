@@ -28,8 +28,7 @@
       <p>모임 일정 조율 서비스</p>
       <p><sub><b>2025.09 ~ 2025.12 · 백엔드 팀원</b></sub></p>
       <a href="https://matuabom.store"><img src="https://img.shields.io/badge/Service-matuabom.store-2563eb?style=flat-square" /></a>
-      <a href="레포주소"><img src="https://img.shields.io/badge/Backend-Repo-181717?style=flat-square&logo=github" /></a>
-      <a href="레포주소"><img src="https://img.shields.io/badge/Infra-Repo-181717?style=flat-square&logo=terraform" /></a>
+      <a href="https://github.com/Dahllyuhrah-Dahllyuhk/BE"><img src="https://img.shields.io/badge/Backend-Repo-181717?style=flat-square&logo=github" /></a>
     </td>
   </tr>
 </table>
@@ -39,7 +38,7 @@
 
 - 🏫 Pursuing a bachelor's degree in Computer Science & Engineering at Kyonggi University, Korea
 - ✅ Studying Server development and Database
-- 🪪 Having a certification in SQL Developer, CSTS and TOPCIT (632)
+- 🪪 Having a certification in SQL Developer, Engineer Information Processing (National Technical Qualification), CSTS and TOPCIT (632)
 - 🔭 I'm currently working on STATCOVE project
 - 🌱 I'm currently learning Spring AI
 - 📫 How to reach me: daewon6905@gmail.com
