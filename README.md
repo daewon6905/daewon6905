@@ -1,16 +1,45 @@
+<img src="https://capsule-render.vercel.app/api?type=egg&color=b8e0b8&height=300&section=header&text=Welcome&fontSize=90&fontColor=3a3a3a" width="100%" />
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-f03c45?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-f03c45?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-f03c45?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-f03c45?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-f03c45?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-f03c45?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-f03c45?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+## 🚀 Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚾ STATCOVE</h3>
+      <p>MLB 기록 탐색·비교·분석 데이터 플랫폼</p>
+      <p><sub><b>2026.09 ~ 현재 · 프론트 · 백엔드 · AWS 인프라</b></sub></p>
+      <a href="https://statcove.site"><img src="https://img.shields.io/badge/Service-statcove.site-2563eb?style=flat-square" /></a>
+      <img src="https://img.shields.io/badge/Backend-Private-6b7280?style=flat-square&logo=github" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗓️ 맞춰봄</h3>
+      <p>모임 일정 조율 서비스</p>
+      <p><sub><b>2025.09 ~ 2025.12 · 백엔드 팀원</b></sub></p>
+      <a href="https://matuabom.store"><img src="https://img.shields.io/badge/Service-matuabom.store-2563eb?style=flat-square" /></a>
+      <a href="레포주소"><img src="https://img.shields.io/badge/Backend-Repo-181717?style=flat-square&logo=github" /></a>
+      <a href="레포주소"><img src="https://img.shields.io/badge/Infra-Repo-181717?style=flat-square&logo=terraform" /></a>
+    </td>
+  </tr>
+</table>
 ## Hi there 👋
-
-<!--
-**daewon6905/daewon6905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🏫 Pursuing a bachelor's degree in Computer Science & Engineering at Kyonggi University, Korea
+✅ Studying Server development and Database
+🪪 Having a certification in SQL Developer, CSTS and TOPCIT (632)
+- 🔭 I’m currently working on STATCOVE project
+- 🌱 I’m currently learning SpringAI
+- 📫 How to reach me: daewon6905@gmail.com
+## 📁Publications
+📄 Jo, H., Kim, S., Jeong, D., Oh, H., & Chung, K. (2025). Multilingual OTC Drugs Chatbot System Using Retrieval-Augmented Generation. The transactions of The Korean Institute of Electrical Engineers, 74(11), 1972-1978. 10.5370/KIEE.2025.74.11.1972
 -->
