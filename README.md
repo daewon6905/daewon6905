@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="./logo2.png" alt="STATCOVE" height="36" /></h3>
+      <h3><img src="./logo.png" alt="STATCOVE" height="36" /></h3>
       <p>MLB 기록 탐색·비교·분석 데이터 플랫폼</p>
       <p><sub><b>2026.09 ~ 현재 · 프론트 · 백엔드 · AWS 인프라</b></sub></p>
       <p><sub><code>Java</code> <code>Spring Boot</code> <code>MySQL</code> <code>AWS</code> <code>Docker</code></sub></p>
