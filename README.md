@@ -26,7 +26,7 @@
       <p>MLB 기록 탐색·비교·분석 데이터 플랫폼</p>
       <p><sub><b>2026.09 ~ 현재 · 프론트 · 백엔드 · AWS 인프라</b></sub></p>
       <p><sub><code>Java</code> <code>Spring Boot</code> <code>MySQL</code> <code>AWS</code> <code>Docker</code></sub></p>
-      <a href="https://statcove.site"><img src="https://img.shields.io/badge/Service-statcove.site-2563eb?style=flat-square" /></a>
+      <img src="https://img.shields.io/badge/Service-Coming_Soon-f59e0b?style=flat-square" />
       <img src="https://img.shields.io/badge/Backend-Private-6b7280?style=flat-square&logo=github" />
       <img width="1000" height="0" />
     </td>
