@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=b8e0b8&height=300&section=header&text=Welcome&fontSize=90&fontColor=3a3a3a" width="100%" />
+<img src="./welcome.svg" width="100%" />
 
 ## 🛠️ Tech Stack
 <p align="center">
