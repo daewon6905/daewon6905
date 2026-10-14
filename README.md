@@ -48,7 +48,7 @@
 - ✅ Studying Server development and Database
 - 🪪 Have a certification in SQL Developer, Engineer Information Processing (National Technical Qualification), CSTS and TOPCIT (632)
 - 🔭 I'm currently working on STATCOVE project
-- 🌱 I'm currently learning Spring AI
+- 🌱 I'm currently learning Database tuning
 - 📫 How to reach me: daewon6905@gmail.com
 
 ## 📁 Publications
