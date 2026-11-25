@@ -57,9 +57,9 @@
   </tr>
 </table>
 
-## Hi there 👋
+## About Me
 
-- 🏫 Pursuing a bachelor's degree in Computer Science & Engineering at Kyonggi University, Korea
+- 🏫 Pursuing a bachelor's degree in Computer Science & Engineering
 - ✅ Studying Server development and Database
 - 🪪 Have a certification in SQL Developer, Engineer Information Processing (National Technical Qualification), CSTS and TOPCIT (632)
 - 🔭 I'm currently working on STATCOVE project
