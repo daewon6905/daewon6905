@@ -32,12 +32,26 @@
       <img width="1000" height="0" />
     </td>
     <td width="50%" valign="top">
+      <h3>📦 포카스테이션</h3>
+      <p>K-pop 포토카드 C2C 거래 플랫폼</p>
+      <p><sub><b>2026.11 ~ 현재 · 백엔드 · AWS 인프라</b></sub></p>
+      <p><sub><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>AWS</code></sub></p>
+      <a href="https://pocastation.com"><img src="https://img.shields.io/badge/Service-pocastation.com-2563eb?style=flat-square" /></a>
+      <a href="https://github.com/pocastation/frontend"><img src="https://img.shields.io/badge/Backend-Repo-181717?style=flat-square&logo=github" /></a>
+      <img width="1000" height="0" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🗓️ 맞춰봄</h3>
       <p>모임 일정 조율 서비스</p>
       <p><sub><b>2025.09 ~ 2025.12 · 백엔드 팀원</b></sub></p>
       <p><sub><code>Java</code> <code>Spring Boot</code> <code>MongoDB</code></sub></p>
       <a href="https://matuabom.store"><img src="https://img.shields.io/badge/Service-matuabom.store-2563eb?style=flat-square" /></a>
       <a href="https://github.com/Dahllyuhrah-Dahllyuhk/BE"><img src="https://img.shields.io/badge/Backend-Repo-181717?style=flat-square&logo=github" /></a>
+      <img width="1000" height="0" />
+    </td>
+    <td width="50%" valign="top">
       <img width="1000" height="0" />
     </td>
   </tr>
